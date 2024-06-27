@@ -7,7 +7,7 @@ DateApproved: 06/05/2024
 MetaDescription: Create your first Visual Studio Code extension (plug-in) with a simple Hello World example.
 ---
 
-# Your First Extension
+# Your First Extensnionz
 
 In this topic, we'll teach you the fundamental concepts for building extensions. Make sure you have [Node.js](https://nodejs.org) and [Git](https://git-scm.com/) installed.
 
